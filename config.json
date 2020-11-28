@@ -1,0 +1,8 @@
+{
+    "APIkey" : "7529e305c0f74b3a9ad9918bb5c514af",
+    "APIurl" : "https://newsapi.org/v2",
+    "country": "us",
+    "use_redis" : false,
+    "redis_port":6379,
+    "use_logger" : false
+}
